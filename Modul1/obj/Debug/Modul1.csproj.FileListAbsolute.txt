@@ -1,0 +1,11 @@
+D:\app-project\visual-studio\pcd\Modul1\Modul1\bin\Debug\Modul1.exe.config
+D:\app-project\visual-studio\pcd\Modul1\Modul1\bin\Debug\Modul1.exe
+D:\app-project\visual-studio\pcd\Modul1\Modul1\bin\Debug\Modul1.pdb
+D:\app-project\visual-studio\pcd\Modul1\Modul1\obj\Debug\Modul1.csprojAssemblyReference.cache
+D:\app-project\visual-studio\pcd\Modul1\Modul1\obj\Debug\Modul1.Form1.resources
+D:\app-project\visual-studio\pcd\Modul1\Modul1\obj\Debug\Modul1.Properties.Resources.resources
+D:\app-project\visual-studio\pcd\Modul1\Modul1\obj\Debug\Modul1.csproj.GenerateResource.cache
+D:\app-project\visual-studio\pcd\Modul1\Modul1\obj\Debug\Modul1.csproj.CoreCompileInputs.cache
+D:\app-project\visual-studio\pcd\Modul1\Modul1\obj\Debug\Modul1.exe
+D:\app-project\visual-studio\pcd\Modul1\Modul1\obj\Debug\Modul1.pdb
+D:\app-project\visual-studio\pcd\Modul1\Modul1\obj\Debug\Modul1.frmBrightness.resources
